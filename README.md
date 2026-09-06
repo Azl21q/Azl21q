@@ -1,6 +1,6 @@
 
 [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Skill&value=16)](https://github.com/harish-sethuraman/readme-components)
-<h3 align="center">Un apasionado desarrollador frontend de la India</h3>
+<h3 align="center">Nyx</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyx&label=Profile%20views&color=0e75b6&style=flat" alt="nyx" /> </p>
 
