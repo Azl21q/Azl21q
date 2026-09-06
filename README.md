@@ -1,1 +1,1 @@
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&16css&value=16)](https://github.com/harish-sethuraman/readme-components)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=css&value=16)](https://github.com/harish-sethuraman/readme-components)
